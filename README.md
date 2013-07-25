@@ -1,7 +1,7 @@
 Gauss-Lobatto Adaptive Integrator
 ===================
 
-A C++ port of the adaptive quadrature algorithm by [Gander and Gautschi](http://link.springer.com/article/10.1023%2FA%3A1022318402393).
+A C++ port of the adaptive quadrature algorithm by [Gander and Gautschi](http://link.springer.com/article/10.1023%2FA%3A1022318402393). The same algorithm is implemented in [Numerical Recipes](http://www.nr.com/), but their license is very restrictive. I translated the code from the original paper so it can be used freely, as outlined in the [MIT License](http://opensource.org/licenses/MIT).
 
 Usage
 -------------------
