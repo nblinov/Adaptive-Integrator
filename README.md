@@ -5,8 +5,8 @@ A C++ port of the adaptive quadrature algorithm by [Gander and Gautschi](http://
 
 Usage
 -------------------
-A sample example file,`example.cpp`, is provided. Simplify include the header 
-`AdaptiveIntegrator.hpp` in your code:
+A sample example file,`example.cpp`, is provided.
+Simpliy include the header `AdaptiveIntegrator.hpp` in your code:
 ```cpp
     #include "AdaptiveIntegrator.hpp"
 ```
